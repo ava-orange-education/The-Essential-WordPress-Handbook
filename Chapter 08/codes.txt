@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//essentialwphandbook.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://essentialwphandbook.com/blog/</loc>
+		<lastmod>2020-02-04T21:57:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://essentialwphandbook.com/</loc>
+		<lastmod>2023-11-29T18:56:33+00:00</lastmod>
+		<image:image>	<image:loc>http://essentialwphandbook.com/wp-content/uploads/2023/11/wordpress-wizard-badge-website.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://essentialwphandbook.com/tutorials/ch5-google-lighthouse-report/</loc>
+		<lastmod>2023-12-13T19:50:15+00:00</lastmod>
+	</url>
+</urlset>
+
+-------------------------------------------------------------------------------------------
+

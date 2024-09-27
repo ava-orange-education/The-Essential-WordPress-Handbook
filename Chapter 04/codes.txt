@@ -1,0 +1,21 @@
+<?php
+/**
+ * Your Child Theme's functions and definitions
+ */
+
+/**
+ * Enqueue Parent Theme Styles
+ * This function loads the stylesheet of the parent theme.
+ */
+function my_child_theme_enqueue_styles() {
+ wp_enqueue_style( 'parent-style', get_template_directory_uri() . '/style.css' );
+ // If the parent theme uses more than just style.css, enqueue them here
+}
+
+add_action( 'wp_enqueue_scripts', 'my_child_theme_enqueue_styles' );
+
+/**
+ * Add your custom functions below
+ */
+
+-----------------------------------------------------
